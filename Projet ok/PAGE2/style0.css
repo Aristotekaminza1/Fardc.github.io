@@ -1,0 +1,94 @@
+#wraper{
+    width: 500px;
+    margin: o auto;
+    background-color: black;
+    min-height: 100%;
+    position: relative;
+    top: 50px;
+}
+body{
+    background-color:rgb(5, 100, 34);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+
+}
+.fto1{
+    position: absolute;
+   top: 20px;
+   border-radius: 10px;
+
+}
+.fto2{
+    position: absolute;
+    top: 20px;
+    left: 300px;
+    
+
+}
+.OK{
+    font-size: 18px;
+}
+
+.fto3{
+    position: absolute;
+    top: 20px;
+    left: 590px;
+
+}
+
+.fto4{
+    position: absolute;
+    top: 20px;
+    left: 950px;
+    
+
+}
+
+.fto5{
+    position:absolute;
+    top:400px;
+    left:10px;
+
+}
+
+.fto6{
+    position: absolute;
+    top: 400px;
+    left: 300px;
+
+}
+
+.fto7{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+
+}
+
+.fto8{
+    position: absolute;
+    top: 400px;
+    left: 950px;
+
+}
+.fto9{
+    position: absolute;
+    top: 800px;
+    left: 10px;
+
+}
+.fto10{
+    position: absolute;
+    top: 800px;
+    left: 290px;
+
+}
+.fto11{
+    position: absolute;
+    top: 800px;
+    left: 900px;
+
+}
+
